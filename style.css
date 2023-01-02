@@ -7,27 +7,32 @@ body {
   flex-direction: column;
 }
 
+#btn1 {
+  width: 70vw;
+  margin: auto;
+}
+
 #sec-container {
   display: flex;
   min-height: 100vh;
 }
 
 #sec-1 {
-  background-color: aqua;
-  width: 25%;
+  flex: 1;
+  border: 1px solid white;
 }
 
 #sec-2 {
-  background-color: rgb(59, 234, 234);
-  width: 25%;
+  flex: 1;
+  border: 1px solid white;
 }
 
 #sec-3 {
-  background-color: rgb(152, 234, 234);
-  width: 25%;
+  flex: 1;
+  border: 1px solid white;
 }
 
 #sec-4 {
-  background-color: rgb(214, 244, 244);
-  width: 25%;
+  flex: 1;
+  border: 1px solid white;
 }
