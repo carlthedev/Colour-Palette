@@ -14,7 +14,7 @@ Allow users to change each colour
 
 Wireframe:
 
-
+![](wiFr.png)
 
 ## Building 
 
