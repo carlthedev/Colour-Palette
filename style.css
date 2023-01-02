@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+#main-container {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+#sec-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+#sec-1 {
+  background-color: aqua;
+  width: 25%;
+}
+
+#sec-2 {
+  background-color: rgb(59, 234, 234);
+  width: 25%;
+}
+
+#sec-3 {
+  background-color: rgb(152, 234, 234);
+  width: 25%;
+}
+
+#sec-4 {
+  background-color: rgb(214, 244, 244);
+  width: 25%;
+}
