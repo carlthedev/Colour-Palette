@@ -14,25 +14,38 @@ body {
 
 #sec-container {
   display: flex;
-  min-height: 100vh;
+  height: 70vh;
 }
 
-#sec-1 {
+#sec-1, #sec-2, #sec-3, #sec-4{
   flex: 1;
-  border: 1px solid white;
+  border: 2px solid white;
+  border-radius: 8px;
 }
 
-#sec-2 {
-  flex: 1;
-  border: 1px solid white;
+#sec-1 img{
+  display: flex;
+  width: 30px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+#sec-2 img{
+  display: flex;
+  width: 30px;
+  margin: auto;
+  padding-bottom: 20px;
 }
 
-#sec-3 {
-  flex: 1;
-  border: 1px solid white;
+#sec-3 img{
+  display: flex;
+  width: 30px;
+  margin: auto;
+  padding-bottom: 20px;
 }
 
-#sec-4 {
-  flex: 1;
-  border: 1px solid white;
+#sec-4 img{
+  display: flex;
+  width: 30px;
+  margin: auto;
+  padding-bottom: 20px;
 }
